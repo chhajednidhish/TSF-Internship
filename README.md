@@ -1,13 +1,11 @@
-<img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
-
 #  The Sparks Foundation Internship
 
 
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-youtube-outline-256.png>](https://youtu.be/ePDA-9p19fw)
-[<img align = right height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-1_Linear_Regression.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-youtube-outline-256.png>](https://youtu.be/1YDeL4PwrwY)
+[<img align = right height = 50 width = 50 src = https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-512.png>](https://github.com/chhajednidhish/TSF-Internship/blob/main/Task-1.ipynb)
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
